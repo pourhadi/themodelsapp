@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PublicEnvironment.assetExtension.getter:Cloud.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PublicEnvironment.init(record:):Cloud.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "record[&quot;name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
